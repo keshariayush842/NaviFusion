@@ -1,0 +1,17 @@
+build/
+install/
+log/
+
+__pycache__/
+*.pyc
+*.pyo
+
+live_telemetry.csv
+
+*.swp
+*.swo
+.DS_Store
+*.Zone.Identifier
+
+*.backup
+*.save
